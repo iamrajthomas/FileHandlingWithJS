@@ -1,0 +1,4 @@
+This is for beginner level. Learning how to read/write in a file using Node with JS 
+~ Author: Raj Thomas
+~ [From Input.txt File]
+~ [Wrote The data From input.txt to output.txt File]
